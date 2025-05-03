@@ -1,0 +1,10 @@
+# Ignore log files
+keylog.txt
+mouselog.txt
+server_keylog.txt
+server_mouselog.txt
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+venv/
